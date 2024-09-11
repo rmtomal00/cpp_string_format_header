@@ -5,6 +5,7 @@
     */
 
    /*Code Exp:
+   ```
         #include <format.h>
         #include <iostream>
 
@@ -14,5 +15,5 @@
             StringFormat sf;
             sf.string_format("Hello, I am { } years old. I have { } dog", 2, 18,1)
         }
-
+    ```
    */
